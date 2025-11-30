@@ -207,6 +207,7 @@ Each instruction executes in these phases:
 ### Step 1: Build the Project
 ```bash
 cd "CMPE-220-Software-CPU-Design"
+make clean
 make
 ```
 
