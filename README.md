@@ -5,11 +5,10 @@ A complete software-based 16-bit CPU implementation in C, featuring a custom ins
 ## Team Members & Contributions
 
 **Team Member Contributions:**
-- **[Your Name Here]** - CPU architecture design, ISA specification, opcode encoding system, register design
-- **[Team Member 2]** - Emulator core implementation, fetch-decode-execute cycle, ALU operations, flag management
-- **[Team Member 3]** - Demo programs (Timer, Fibonacci, Hello World), testing framework, documentation, output validation
-
-> **Note:** Please update the names above with actual team member names before submission.
+- **[Vinuta Patil]** - CPU Architecture & ISA Design
+- **[Sahithi Chikkela]** - CPU Core & ALU Implementation
+- **[Vineela Mukkamala]** - Memory Management & Control Flow
+- **[Abhinav Sriharsha Anumanchi]** - Demo Programs, Testing & Documentation
 
 ## Architecture Overview
 
