@@ -206,7 +206,7 @@ Each instruction executes in these phases:
 
 ### Step 1: Build the Project
 ```bash
-cd "Team 15- Software CPU Emulator"
+cd "CMPE-220-Software-CPU-Design"
 make
 ```
 
