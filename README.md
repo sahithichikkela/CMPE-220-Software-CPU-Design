@@ -2,7 +2,7 @@
 
 A complete software-based 16-bit CPU implementation in C, featuring a custom instruction set architecture (ISA), assembler, and emulator.
 
-# Demo Video of the Project
+## Demo Video of the Project
 https://drive.google.com/file/d/1iz02LvC_tPXblrO3hisvMBy6NbrxEJv8/view?pli=1
 
 ## Team Members & Contributions
